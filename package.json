@@ -1,0 +1,16 @@
+{
+  "name": "dreamcode_1_premium",
+  "version": "1.0.0",
+  "description": "Free Discord Bot made for DreamCode. Premium zone.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okizek ( wanocik.space, dreamcode )",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security"
+  }
+}
